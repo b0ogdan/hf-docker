@@ -1,8 +1,7 @@
----
-title: A
-emoji: 🔥
-colorFrom: blue
-colorTo: red
+metadata
+title: Dproxy
+emoji: 📚
+colorFrom: indigo
+colorTo: gray
 sdk: docker
 pinned: false
----
